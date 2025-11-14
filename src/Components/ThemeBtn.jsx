@@ -13,7 +13,7 @@ export default function ThemeBtn() {
     }
 
     return (
-        <label className="relative inline-flex items-center cursor-pointer">
+        <label className="relative checkclass inline-flex items-center cursor-pointer">
             <input
                 type="checkbox"
                 value=""
